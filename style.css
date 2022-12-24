@@ -1,0 +1,47 @@
+body
+{
+    background: url("img1.png") no-repeat;
+    background-size: cover;
+    margin: 20px;
+
+}
+.img
+{
+    object-fit: fill;
+	width: 200px;
+    height: 200px;
+	margin-left: 40%;
+
+}
+
+.first-txt {
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    direction: rtl;
+    font-size: 25px;
+}
+
+.text
+{
+    text-align: center;
+}
+
+.table, th, td
+{
+    border:1px solid black;
+    text-align: center;
+}
+
+.table, th, td, h2
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.forms
+{
+    text-align: center;
+    direction: rtl;
+}
